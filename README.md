@@ -6,7 +6,7 @@
 
 ## Videos 
 - simple streaming- <a href="https://www.youtube.com/watch?v=WlMw43sX5mI">youtube</a>
-- asynchronous multi-agent moving randomly<a href="https://youtu.be/pVMb0hQ7V7g">youtube</a>
+- asynchronous multi-agent moving randomly- <a href="https://youtu.be/pVMb0hQ7V7g">youtube</a>
 
 
 ## Points
