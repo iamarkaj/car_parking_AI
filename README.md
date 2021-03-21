@@ -17,7 +17,7 @@
 
 ## Learning
 - C#
-- Socket programming, threading, multiprocessing in python
+- Socket programming, threading, multiprocessing in Python
 - Performance improvement in Unity
 
 
