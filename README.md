@@ -9,16 +9,16 @@
 - asynchronous multi-agent moving randomly- <a href="https://youtu.be/pVMb0hQ7V7g">youtube</a>
 
 
-## Points
+## Summary
 - This is a 3D car parking game made in <b>Unity 2018.4.24f1</b> 
 - Wanted to create my own environment and try out different RL algorithms
 - The simmulation is connected to a <b>python controller over TCP</b>
 
 
 ## Learning
-- Basics of C#(obviously)
-- Bit of socket programming, threading, multiprocessing in python
-- Bit of how to improve performance in Unity
+- C#
+- Socket programming, threading, multiprocessing in python
+- Performance improvement in Unity
 
 
 ## RL courses
