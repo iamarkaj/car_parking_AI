@@ -1,4 +1,4 @@
-# car_parking_AI
+# AI learns to park
 
 
 ![img](/img/img.png)
