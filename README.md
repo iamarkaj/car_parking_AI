@@ -15,12 +15,6 @@
 - The simmulation is connected to a <b>python controller over TCP</b>
 
 
-## Learning
-- C#
-- Socket programming, threading, multiprocessing in Python
-- Performance improvement in Unity
-
-
 ## RL courses
 - RL course by David Silver(Internet's favorite)- <a href="https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ">youtube</a>
 - yandexdataschool-Practical_RL- <a href="https://github.com/yandexdataschool/Practical_RL">github</a>
