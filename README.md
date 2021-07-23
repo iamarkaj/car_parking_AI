@@ -7,7 +7,7 @@
 
 ## Overview
 
-An AI learns to park a car in a parking lot in a 3D physics simulation. It is trained with Rainbow-DQN algorithm with few modifications.
+An AI learns to park a car in a 3D physics simulation. It is trained with Rainbow-DQN algorithm with few modifications.
 
 The input of the Neural Network are the camera images of Display 5. The outputs of the Neural Network are interpreted as engine force, braking force and turning force (continuous values). The AI starts off with random behaviour, i.e. the Neural Network is initialized with random weights. It then gradually learns to solve the task by reacting to environment feedback accordingly.
 
@@ -33,7 +33,7 @@ It uses a normal TCP socket. The connection established between the client and t
 Plot rewards and losses in real-time based on matplotlib. To plot: uncomment `plot(counter, all_rewards, losses)` in `main.py`
 
 ## Future Works
-- Add connection proocols to improve the connection between client and server.
+- Add connection protocols to improve the connection between client and server.
 - Implement better Reinforcement Learning algorithms to reduce training time and accuracy.
 
 ## Credits
